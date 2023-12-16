@@ -10,3 +10,7 @@ user data database etc.
 # Best practices
 
 Component based Clean Architecture and Clean Coding, Responsive design, user-friendly interface, throughout appearence analysis, accessibility, data usage and code optimization etc.
+
+# Screenshots
+
+![redux (1)](https://github.com/LastPeaksStorm/IT-LearnMaterials-Forum/assets/109522848/933a080f-75e5-49ad-b498-d4cb25486dcd)
