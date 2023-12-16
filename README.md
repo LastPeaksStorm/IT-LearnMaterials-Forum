@@ -1,6 +1,6 @@
-# Discussion forum
+# IT Learning materials forum
 
-Implementation of the fully-functioning React Redux-Based project of the discussion forum with complete user data processing, "Authorization and Authentication".
+Implementation of the fully-functioning React Redux-Based project of the learning materials forum about IT with complete user data processing, structured product listing, "Authorization and Authentication" and etc.
 
 # Content
 
