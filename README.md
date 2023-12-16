@@ -4,7 +4,7 @@ Implementation of the fully-functioning React Redux-Based project of the learnin
 
 # Content
 
-Proﬁle page, list, search, pagination, sorting by categories, proﬁles, interaction with
+Proﬁle page, list, search, pagination, sorting by categories, proﬁles, asynchronous data loading, interaction with
 user data database etc.
 
 # Best practices
